@@ -19,6 +19,7 @@ Process:
 • Find key insights Identify top customer groups, best-selling products, and states with the most sales.
 
 Project Insights:
+
 • Most buyers are married women aged 26–35 years.
 • The top three states with the highest sales are Uttar Pradesh, Maharashtra, and Karnataka.
 • People working in IT, Healthcare, and Aviation spent the most during Diwali.
